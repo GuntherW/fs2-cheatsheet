@@ -1,10 +1,10 @@
 import sbt._
 
 object Version {
-  lazy val Circe     = "0.12.1"
+  lazy val Circe     = "0.12.3"
   lazy val CirceFs2  = "0.12.0"
-  lazy val Fs2       = "2.0.0"
-  lazy val ScalaTest = "3.0.8"
+  lazy val Fs2       = "2.1.0"
+  lazy val ScalaTest = "3.1.0"
 }
 
 object Dependencies {
